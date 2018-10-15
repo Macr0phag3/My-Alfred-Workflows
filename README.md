@@ -15,7 +15,7 @@ Some Workflows
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-12-38.png)
 
 ### Simple-Timer
-** You need [terminal-notifier](https://github.com/julienXX/terminal-notifier) and zsh**
+**You need [terminal-notifier](https://github.com/julienXX/terminal-notifier) and zsh**
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-13-32.png)
 
