@@ -1,5 +1,5 @@
 # My-Alfred-Workflows
-Some Workflows
+Some Alfred-Workflows
 
 ## coded by myself
 
