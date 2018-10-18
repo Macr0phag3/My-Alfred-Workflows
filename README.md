@@ -17,7 +17,7 @@ Some Alfred-Workflows
 ### Simple-Timer
 **You need [terminal-notifier](https://github.com/julienXX/terminal-notifier) and zsh**
 
-![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-13-32.png)
+![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-18_09-53-54.png)
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-13-54.png)
 
