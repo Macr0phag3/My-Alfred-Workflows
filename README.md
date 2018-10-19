@@ -36,6 +36,6 @@ refresh user rule
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-35-57.png)
 
 add user rule
-![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-36-26.png)
+![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-43-36.png)
 
-![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-36-39.png)
+![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-43-47.png)
