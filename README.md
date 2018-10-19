@@ -26,12 +26,15 @@ Some Alfred-Workflows
 
 ### ssr-helper
 proxy mode toggle
+
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-15-45.png)
 
 refresh user rule
+
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-35-11.png)
 
 add user rule
+
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-35-57.png)
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-36-26.png)
