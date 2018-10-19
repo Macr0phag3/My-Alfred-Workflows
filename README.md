@@ -25,6 +25,7 @@ Some Alfred-Workflows
 
 
 ### ssr-helper
+控制 ssr 的代理模式：
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-15-45.png)
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-35-11.png)
