@@ -42,3 +42,10 @@ add user rule
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-36-26.png)
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-19_11-43-47.png)
+
+注意，如果加入的域名没有走 ss，极有可能是 ss 默认的 gfw List 中将此域名加入了白名单。
+
+`@@` 开头的就是了。如 `"@@||ip.cn"`
+
+
+
