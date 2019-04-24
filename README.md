@@ -7,6 +7,9 @@ Some Alfred-Workflows
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-08-43.png)
 
 ### IP-Address
+需要安装 `jq` [传送门🚪](https://stedolan.github.io/jq/)
+
+
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-10-25.png)
 
 ![](https://raw.githubusercontent.com/Macr0phag3/My-Alfred-Workflows/master/pics/2018-10-15_14-10-59.png)
@@ -48,8 +51,20 @@ add user rule
 `@@` 开头的就是了。如 `"@@||ip.cn"`
 
 
+## collected from github
+
 ### 代码辅助命名(狗头)
 详见：
 
 https://github.com/xudaolong/CodeVar
+
+## 根据名字杀进程
+Kill-Process.alfredworkflow
+
+## 查找最后一次修改的文件
+Last-changed-files.alfredworkflow
+
+## wifi 开关
+Wi-Fi-Toggle.alfredworkflow
+
 
