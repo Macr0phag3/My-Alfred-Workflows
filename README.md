@@ -48,4 +48,8 @@ add user rule
 `@@` 开头的就是了。如 `"@@||ip.cn"`
 
 
+### 代码辅助命名(狗头)
+详见：
+
+https://github.com/xudaolong/CodeVar
 
